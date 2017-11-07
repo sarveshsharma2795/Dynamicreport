@@ -1,0 +1,17 @@
+PODS:
+  - DropDown (2)
+  - SQLite.swift (0.11.3):
+    - SQLite.swift/standard (= 0.11.3)
+  - SQLite.swift/standard (0.11.3)
+
+DEPENDENCIES:
+  - DropDown
+  - SQLite.swift (~> 0.11)
+
+SPEC CHECKSUMS:
+  DropDown: 744784d9c9aa505100e942c16acd05430cbb2f0a
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+
+PODFILE CHECKSUM: 63197ea88522a2e445cfa5fdc3d196af92f18af6
+
+COCOAPODS: 1.3.1
